@@ -22,6 +22,10 @@ class idk
 
         //lista.Sort();
         lista.Insert(0, "Nombre");
+        lista.Remove("Nome");
+        //lista.RemoveAt(0);
+
+
 
         foreach (string s in lista)
         {
